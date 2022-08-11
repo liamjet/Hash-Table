@@ -20,3 +20,6 @@ public:
 
     void displayHash();
 };
+
+// Code from GeeksForGeeks
+// Link: https://www.geeksforgeeks.org/c-program-hashing-chaining/

@@ -21,3 +21,6 @@ int main()
 
     return 0;
 }
+
+// Code from GeeksForGeeks
+// Link: https://www.geeksforgeeks.org/c-program-hashing-chaining/
